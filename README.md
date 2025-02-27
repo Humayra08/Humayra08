@@ -1,6 +1,9 @@
-<h1 align="center">Hi there👋, I'm Humayra Binte Kazal</h1>
+<p align="center">
+  <a href="https://github.com/Humayra08">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=28&duration=3000&pause=1000&color=F7A90C&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there%2C+I'm+Humayra+Binte+Kazal+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">An aspiring CSE student passionate about coding, learning new technologies, and building innovative projects.</h3>
-
 
 - 🔭 I’m currently studying computer science and engineering at **Ahsanullah University of Science and Technology**
 
@@ -18,20 +21,4 @@
   <a href="https://www.leetcode.com/humayra08" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="humayra08" height="30" width="40" />
   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>       
 </p>
