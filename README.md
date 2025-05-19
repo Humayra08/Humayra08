@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayra08](https://github.com/Humayra08)
 
-- 💬 Ask me about **C, C++, Java**
+- 💬 Ask me about **C, C++, Java, Flutter**
 
 - 📫 Contact me **humayrabintekazal@gmail.com**
 
